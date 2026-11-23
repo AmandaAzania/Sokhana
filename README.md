@@ -33,3 +33,7 @@ This repository contains Sokhana's static company website, built with HTML, CSS 
 **Sokhana International Industries (Pty) Ltd**  
 South Africa  
 **Email:** [sokhanawondo2@gmail.com](mailto:sokhanawondo2@gmail.com)
+
+## Brand identity
+
+The website uses the official Sokhana logo supplied by the organisation, stored in `assets/sokhana-logo.jpg`. The browser icon is a crop of the logo symbol in `assets/sokhana-symbol.png`.
