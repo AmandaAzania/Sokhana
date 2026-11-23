@@ -1,56 +1,35 @@
 # Sokhana International Industries (Pty) Ltd
 
-**Human-Centred Innovation | Education | Research | Technology**
+**Human-centred innovation · Education · Research · Technology**
 
-### About Sokhana
+Sokhana International Industries is an innovation, research and development organisation dedicated to practical, human-centred responses to social and economic challenges through education, technology and collaborative partnerships.
 
-Sokhana International Industries (Pty) Ltd is an innovation, research and development organisation focused on designing practical, human-centred solutions to social and economic challenges.
+## Vision and mission
 
-Our approach brings together education, research, technology and collaborative partnerships to explore sustainable opportunities and create meaningful social impact.
+**Vision:** Every learner has equitable access to innovative learning experiences.
 
-### Our Vision
+**Mission:** Empower underserved communities to find solutions through education, research and technology.
 
-A future where every learner has equitable access to innovative learning experiences.
+## Sakha Ikamva Pilot Programme
 
-### Our Mission
+**Sakha Ikamva Pilot Programme** is the confirmed name of Sokhana's proposed 18-month human-centred AI education and research initiative. It is planned for Hector Peterson Secondary School and focuses on learners experiencing barriers to learning, including specific learning difficulties such as dyslexia, dysgraphia and dyscalculia.
 
-To empower underserved communities through education, research and technology, creating opportunities for learning, innovation and sustainable development.
+The parent/guardian participation form anticipates approximately **30 learners**. Planned activities include creative learning, coding, computational thinking, digital literacy, mentoring and appropriately used AI-assisted learning. Learners, teachers and parents are intended to contribute to the human-centred design process.
 
-### Our Focus Areas
+The proposal outlines mixed-methods research using interviews, surveys and appropriately permitted educational performance data. Proposed outputs include AI and coding workshops, learner engagement reports, teacher and parent feedback, midline and final research papers, an analytics dashboard and a replicable implementation toolkit.
 
-- **Inclusive Education:** Exploring learning approaches that recognise diverse learner needs, strengths and experiences.
-- **Human-Centred Technology:** Applying artificial intelligence and digital technologies responsibly to address real-world challenges.
-- **Research and Innovation:** Using evidence, experimentation and collaborative design to develop practical solutions.
-- **Community Development:** Building partnerships that support educational access, participation and long-term sustainability.
+The programme is **proposed, not yet reported as implemented**. Participation is voluntary and subject to school coordination, appropriate parent/guardian consent, learner assent, safeguarding, research and data-protection processes. Media consent is separate from programme participation. Academic improvements are not guaranteed.
 
-### Featured Initiative
+## Partnerships
 
-**Sokhana Human-Centred AI Learning Initiative**
+Sokhana welcomes conversations with education and research institutions, technology partners, community stakeholders and prospective funding partners interested in inclusive education and responsible innovation.
 
-Our proposed 18-month educational and research programme explores how creative learning, coding, computational thinking and appropriately used artificial intelligence can support learners experiencing barriers to learning.
+## Website
 
-The initiative is planned for Hector Peterson Secondary School and will explore learner engagement, confidence, transferable skills and educational outcomes.
+This repository contains Sokhana's static company website, built with HTML, CSS and JavaScript. The contact form prepares an email in the visitor's email application; it does not transmit or store submissions on a server.
 
-The programme will incorporate educational workshops, collaborative activities, mentoring, stakeholder feedback and mixed-methods research.
+## Contact
 
-The initiative is currently in its planning and development phase, with implementation subject to the necessary partnerships, permissions, safeguarding arrangements and resources.
-
-### Partnerships and Collaboration
-
-Sokhana welcomes opportunities to collaborate with educational institutions, researchers, technology organisations, community stakeholders and funding partners who share our commitment to inclusive education and responsible innovation.
-
-### Website
-
-This repository contains the official company website, developed using HTML, CSS and JavaScript.
-
-### Contact
-
-**Sokhana International Industries (Pty) Ltd**
-
-South Africa
-
-Email: sokhanawondo2@gmail.com
-
----
-
-*Progress begins with people.*
+**Sokhana International Industries (Pty) Ltd**  
+South Africa  
+**Email:** [sokhanawondo2@gmail.com](mailto:sokhanawondo2@gmail.com)

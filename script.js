@@ -1,5 +1,3 @@
-// EDIT THIS: replace the empty string with the official Sokhana business email.
-// Example: const BUSINESS_EMAIL = 'hello@yourdomain.co.za';
 const BUSINESS_EMAIL = 'sokhanawondo2@gmail.com';
 
 const menuButton = document.querySelector('.menu-toggle');
@@ -17,7 +15,8 @@ nav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
 
 document.querySelector('#year').textContent = new Date().getFullYear();
 if (BUSINESS_EMAIL) {
-  document.querySelector('#email-display').textContent = BUSINESS_EMAIL;
+  const emailLink = document.querySelector('#email-display a');
+  if (emailLink) { emailLink.textContent = BUSINESS_EMAIL; emailLink.href = `mailto:${BUSINESS_EMAIL}`; }
 }
 
 const form = document.querySelector('#contact-form');
