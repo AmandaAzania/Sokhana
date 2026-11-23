@@ -1,42 +1,56 @@
-# Sokhana International Industries — website
+# Sokhana International Industries (Pty) Ltd
 
-A responsive, static company website built with HTML, CSS and JavaScript. No build tools or paid hosting required.
+**Human-Centred Innovation | Education | Research | Technology**
 
-## Files
-- `index.html` — page content and structure
-- `styles.css` — all styling and responsive layouts
-- `script.js` — mobile navigation and contact email functionality
-- `assets/favicon.svg` — browser icon
+### About Sokhana
 
-## Open locally
-Open `index.html` in a browser, or use the Live Server extension in VS Code.
+Sokhana International Industries (Pty) Ltd is an innovation, research and development organisation focused on designing practical, human-centred solutions to social and economic challenges.
 
-## IMPORTANT: edit before publishing
-1. In `script.js`, replace the empty `BUSINESS_EMAIL` value with the official company email. Until configured, the form does **not** send enquiries.
-2. Confirm the exact registered company name and update it throughout the site if needed.
-3. Confirm all statements about the Sakha Ikamva programme, school, number of learners, timelines and organisational ownership. These are presented as proposed, not completed outcomes.
-4. Update the location and company description if more specific verified details are available.
-5. Review safeguarding, school permission, data protection and consent processes before publishing learner-related claims or collecting learner data.
+Our approach brings together education, research, technology and collaborative partnerships to explore sustainable opportunities and create meaningful social impact.
 
-## Contact form
-This website uses a `mailto:` link: when configured, the form opens the visitor's email app with a prepared message. It does not submit or store data on a server. For reliable browser-based submission, integrate a trusted form service or your own backend later.
+### Our Vision
 
-## Free hosting on GitHub Pages
-1. Create a public GitHub repository, e.g. `sokhana-website`.
-2. Upload `index.html`, `styles.css`, `script.js` and the `assets` folder to the repository root.
-3. Go to Settings → Pages → Build and deployment → Deploy from a branch.
-4. Choose `main` and `/ (root)`, then Save.
-5. GitHub will show your published URL after deployment.
+A future where every learner has equitable access to innovative learning experiences.
 
-## Notes
-The website uses Google Fonts via an external CSS import; if offline, system font fallbacks will be used. No third-party image assets or tracking scripts are included.
+### Our Mission
 
+To empower underserved communities through education, research and technology, creating opportunities for learning, innovation and sustainable development.
 
-## Review notes (23 November 2026)
-- This version follows the project proposal and parent/guardian consent template supplied for review.
-- The consent form says approximately **30 learners**, whereas earlier planning described **150 learners**. The public site intentionally does not state a participant count until the team resolves this.
-- The documents use **Sokhana Human-Centred AI Learning Initiative**. The earlier website used **Sakha Ikamva**; confirm whether that remains an approved public-facing name before restoring it.
-- The school is identified as the proposed site, not as a confirmed partner.
-- The site does not claim funding, school approval, research ethics approval, measurable impact or completed publications.
-- The consent form itself calls for school management/governing body and legal/research-ethics review before use.
-- The contact form opens a visitor's email application; it does not send messages directly.
+### Our Focus Areas
+
+- **Inclusive Education:** Exploring learning approaches that recognise diverse learner needs, strengths and experiences.
+- **Human-Centred Technology:** Applying artificial intelligence and digital technologies responsibly to address real-world challenges.
+- **Research and Innovation:** Using evidence, experimentation and collaborative design to develop practical solutions.
+- **Community Development:** Building partnerships that support educational access, participation and long-term sustainability.
+
+### Featured Initiative
+
+**Sokhana Human-Centred AI Learning Initiative**
+
+Our proposed 18-month educational and research programme explores how creative learning, coding, computational thinking and appropriately used artificial intelligence can support learners experiencing barriers to learning.
+
+The initiative is planned for Hector Peterson Secondary School and will explore learner engagement, confidence, transferable skills and educational outcomes.
+
+The programme will incorporate educational workshops, collaborative activities, mentoring, stakeholder feedback and mixed-methods research.
+
+The initiative is currently in its planning and development phase, with implementation subject to the necessary partnerships, permissions, safeguarding arrangements and resources.
+
+### Partnerships and Collaboration
+
+Sokhana welcomes opportunities to collaborate with educational institutions, researchers, technology organisations, community stakeholders and funding partners who share our commitment to inclusive education and responsible innovation.
+
+### Website
+
+This repository contains the official company website, developed using HTML, CSS and JavaScript.
+
+### Contact
+
+**Sokhana International Industries (Pty) Ltd**
+
+South Africa
+
+Email: sokhanawondo2@gmail.com
+
+---
+
+*Progress begins with people.*
